@@ -1,0 +1,23 @@
+{
+  "name": "eggplant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --record --key 2e5991f0-6e59-4178-8f1c-605f277358cf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testgirls/cypress-project-en.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testgirls/cypress-project-en/issues"
+  },
+  "homepage": "https://github.com/testgirls/cypress-project-en#readme",
+  "dependencies": {
+    "cypress": "^3.4.1"
+  }
+}
